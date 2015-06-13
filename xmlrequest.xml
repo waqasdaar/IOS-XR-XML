@@ -1,0 +1,28 @@
+<Request>
+  <Get>
+    <Operational>
+      <Subscriber>
+        <Session>
+          <NodeTable>
+            <Node>
+              <Naming>
+                <NodeName>
+                  <Rack>0</Rack>
+                  <Slot>RSP0</Slot>
+                  <Instance>CPU0</Instance>
+                </NodeName>
+              </Naming>
+              <SessionTable>
+                <Filter>
+                  <SubscriberUsernameDetailFilter>
+                    <Username>0000.6602.02f6</Username>
+                  </SubscriberUsernameDetailFilter>
+                </Filter>
+              </SessionTable>
+            </Node>
+          </NodeTable>
+        </Session>
+      </Subscriber>
+    </Operational>
+  </Get>
+</Request>

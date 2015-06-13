@@ -1,0 +1,29 @@
+<Request>
+  <Get>
+    <Operational>
+      <InfraStatistics>
+        <InterfaceTable>
+          <Interface>
+            <Naming>
+              <InterfaceName>Bundle-Ether1.200.ip30506</InterfaceName>
+            </Naming>
+            <ProtocolTable>
+              <Protocol>
+                <Naming>
+                  <ProtocolName>IPV4_UNICAST</ProtocolName>
+                </Naming>
+              </Protocol>
+            </ProtocolTable>
+            <ProtocolTable>
+              <Protocol>
+                <Naming>
+                  <ProtocolName>IPV4_MULTICAST</ProtocolName>
+                </Naming>
+              </Protocol>
+            </ProtocolTable>
+          </Interface>
+        </InterfaceTable>
+      </InfraStatistics>
+    </Operational>
+  </Get>
+</Request>
